@@ -26,4 +26,4 @@ The project helps in visualizing the output of an HTML Command.
 
 ## Project Deployment
 
-The web-app is deployed [here](https://markdown-renderer-git-main-vaiibhavgupta.vercel.app).
+The web-app is deployed [here](https://markdown-renderer-vaiibhavgupta.vercel.app).
